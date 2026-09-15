@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Temi-is-astro/Temi-is-astro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `ASTROBOY`
 
-Here are some ideas to get you started:
+### SOFTWARE DEVELOPER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Building scalable web applications, backend systems, and digital experiences.**
+
+<br>
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                  DEVELOPER COMMAND CENTER                ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║   PLAYER        ASTROBOY                                 ║
+║   ROLE          SOFTWARE DEVELOPER                       ║
+║   STATUS        ● ONLINE  •  BUILDING                    ║
+║   LEVEL         DEVELOPER                                ║
+║   XP            ████████░░                               ║
+║                                                          ║
+║   WEB  //  BACKEND  //  BLOCKCHAIN  //  GAME             ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
