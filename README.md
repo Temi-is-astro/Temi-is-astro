@@ -89,10 +89,21 @@ Focused on web development, backend systems, blockchain, and game development.
 
 ## // COMMS
 
-[GitHub](https://github.com/Temi-is-astro) ·
-[LinkedIn](YOUR_LINKEDIN_URL) ·
-[X](YOUR_X_URL) ·
-[Email](mailto:YOUR_EMAIL)
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+</a>
+&nbsp;
+<a href="YOUR_X_URL">
+  <img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=FFFFFF" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+</a>
+
+</div>
 
 ---
 
