@@ -1,33 +1,103 @@
 <div align="center">
 
-### `// ASTROBOY HUD`
+# ASTROBOY
 
-[![PLAYER](https://img.shields.io/badge/PLAYER-ASTROBOY-00D9FF?style=for-the-badge&labelColor=0B0F14)](https://github.com/Temi-is-astro)
-[![ROLE](https://img.shields.io/badge/ROLE-SOFTWARE%20DEVELOPER-58A6FF?style=for-the-badge&labelColor=0B0F14)](https://github.com/Temi-is-astro)
-[![STATUS](https://img.shields.io/badge/STATUS-●%20ONLINE%20%2F%20BUILDING-39D98A?style=for-the-badge&labelColor=0B0F14)](https://github.com/Temi-is-astro)
+### SOFTWARE DEVELOPER
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   ◈ PLAYER        ASTROBOY                              ║
-║   ◈ ROLE          SOFTWARE DEVELOPER                    ║
-║   ◈ STATUS        ● ONLINE  •  BUILDING                 ║
-║   ◈ LEVEL         DEVELOPER                             ║
-║   ◈ XP            ████████░░                            ║
-║                                                          ║
-║   WEB  //  BACKEND  //  BLOCKCHAIN  //  GAME            ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+Building web applications, backend systems, blockchain projects, and interactive experiences.
 
+`WEB`  ·  `BACKEND`  ·  `WEB3`  ·  `GAME`
 
-## // PLAYER PROFILE
+<br>
+
+`// SYSTEM ONLINE`
+
+</div>
+
+---
+
+## // PROFILE
 
 **Olorunfemi Daniel**  
 Software Developer
 
-I build web applications, backend systems, blockchain projects, and interactive digital experiences.
+I build clean, functional software with a focus on modern web development,
+backend systems, blockchain, and interactive experiences.
 
-**FOCUS**
+---
 
-`FULL STACK` · `BACKEND` · `WEB3` · `GAME`
+## // TECH STACK
+
+| AREA | TECHNOLOGIES |
+| --- | --- |
+| CORE | Python · Django · JavaScript |
+| FRONTEND | React · Next.js · Tailwind CSS |
+| BACKEND | Django · REST APIs · Databases |
+| WEB3 | Blockchain · Smart Contracts · Web3 |
+| TOOLS | Git · GitHub · Linux · VS Code |
+
+---
+
+## // PROJECTS
+
+### `01` DEV ASTRO
+Personal developer portfolio built to showcase my work and technical skills.
+
+`WEB` · `UI/UX` · `ACTIVE`
+
+---
+
+### `02` ECHOES
+An atmospheric exploration adventure set in a forgotten world.
+
+`GAME` · `EXPLORATION` · `CONCEPT`
+
+---
+
+### `03` WILDBOUND
+A stylized voxel survival adventure in a wilderness reclaimed by nature.
+
+`GAME` · `SURVIVAL` · `CONCEPT`
+
+---
+
+### `04` WANDER
+A premium travel platform for discovering remote destinations and hidden places.
+
+`WEB` · `UI/UX` · `CONCEPT`
+
+---
+
+## // EXPERIENCE
+
+### GDG WEB3 / BLOCKCHAIN — FUNAAB
+
+**Former Web3 / Blockchain Lead**
+
+Organized technical activities and helped students learn about
+Web3 and blockchain development.
+
+---
+
+## // CURRENTLY
+
+Building. Learning. Shipping.
+
+Focused on web development, backend systems, blockchain, and game development.
+
+---
+
+## // COMMS
+
+[GitHub](https://github.com/Temi-is-astro) ·
+[LinkedIn](YOUR_LINKEDIN_URL) ·
+[X](YOUR_X_URL) ·
+[Email](mailto:YOUR_EMAIL)
+
+---
+
+<div align="center">
+
+`ASTROBOY // ONLINE`
+
+</div>
