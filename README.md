@@ -91,8 +91,8 @@ Focused on web development, backend systems, blockchain, and game development.
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505" />
+<a href="YOUR_LINKEDIN_PROFILE_URL">
+  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="24" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="YOUR_X_URL">
