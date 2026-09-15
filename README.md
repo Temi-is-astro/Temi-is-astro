@@ -10,7 +10,7 @@ Building web applications, backend systems, blockchain projects, and interactive
 
 <br>
 
-`// SYSTEM ONLINE`
+
 
 </div>
 
