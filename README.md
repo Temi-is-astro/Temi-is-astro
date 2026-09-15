@@ -92,15 +92,15 @@ Focused on web development, backend systems, blockchain, and game development.
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+  <img src="https://cdn.simpleicons.org/linkedin/58A6FF" width="26" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="YOUR_X_URL">
-  <img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=FFFFFF" />
+  <img src="https://cdn.simpleicons.org/x/FFFFFF" width="26" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+  <img src="https://cdn.simpleicons.org/gmail/58A6FF" width="26" />
 </a>
 
 </div>
