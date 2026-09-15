@@ -1,6 +1,6 @@
 <div align="center">
 
-### `// PLAYER PROFILE : ASTROBOY`
+### `// ASTROBOY HUD`
 
 [![PLAYER](https://img.shields.io/badge/PLAYER-ASTROBOY-00D9FF?style=for-the-badge&labelColor=0B0F14)](https://github.com/Temi-is-astro)
 [![ROLE](https://img.shields.io/badge/ROLE-SOFTWARE%20DEVELOPER-58A6FF?style=for-the-badge&labelColor=0B0F14)](https://github.com/Temi-is-astro)
