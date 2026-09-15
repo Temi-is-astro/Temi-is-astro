@@ -19,3 +19,15 @@
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
+
+
+## // PLAYER PROFILE
+
+**Olorunfemi Daniel**  
+Software Developer
+
+I build web applications, backend systems, blockchain projects, and interactive digital experiences.
+
+**FOCUS**
+
+`FULL STACK` · `BACKEND` · `WEB3` · `GAME`
