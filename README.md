@@ -92,9 +92,9 @@ Focused on web development, backend systems, blockchain, and game development.
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://cdn.simpleicons.org/linkedin/58A6FF" width="26" />
+  <img src="https://cdn.simpleicons.org/linkedin/8B949E" width="22" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="YOUR_X_URL">
   <img src="https://cdn.simpleicons.org/x/FFFFFF" width="26" />
 </a>
