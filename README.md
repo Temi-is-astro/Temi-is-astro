@@ -91,7 +91,7 @@ Focused on web development, backend systems, blockchain, and game development.
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_PROFILE_URL">
+<a href="https://www.linkedin.com/in/olorunfemi-daniel-0611b4444">
   <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="24" />
 </a>
 &nbsp;&nbsp;&nbsp;
